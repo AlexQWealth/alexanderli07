@@ -2,13 +2,6 @@
 <!-- Swap the gradient by editing color=0:1a1b27,100:4977c9 (start,end hex, no #) -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:4977c9&height=200&section=header&text=Alexander%20Li&fontSize=70&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%7C%20CS%20%2B%20Finance%20%40%20University%20of%20Waterloo&descSize=18&descAlignY=58" alt="header"/>
 
-<!-- ======================= TYPING INTRO ======================= -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=70A5FD&center=true&vCenter=true&width=470&lines=Hi+there+%F0%9F%91%8B+I'm+Alex;Aspiring+Software+Engineer;20%2B+Hackathons+and+counting;Always+learning+something+new" alt="Typing SVG"/>
-  </a>
-</h1>
-
 <!-- ======================= SOCIAL BADGES ======================= -->
 <!-- TODO: replace the # links below with your real profile URLs -->
 <div align="center">
@@ -18,6 +11,16 @@
 [![Reddit Badge](https://img.shields.io/badge/Reddit-Profile-informational?style=flat&logo=reddit&logoColor=white&color=0D76A8)](https://www.reddit.com)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=0D76A8)](https://twitter.com)
 
+</div>
+
+<!-- ======================= CHESS RATINGS (below socials) ======================= -->
+<!-- Live ratings from chess.com's public API. Delete any time control you don't play, or that badge errors. -->
+<div align="center">
+  <a href="https://www.chess.com/member/TheFaix">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2FTheFaix%2Fstats&query=%24.chess_rapid.last.rating&label=Rapid&style=for-the-badge&logo=chessdotcom&logoColor=white&color=70a5fd" alt="Chess.com Rapid"/>
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2FTheFaix%2Fstats&query=%24.chess_blitz.last.rating&label=Blitz&style=for-the-badge&logo=chessdotcom&logoColor=white&color=bf91f3" alt="Chess.com Blitz"/>
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2FTheFaix%2Fstats&query=%24.chess_bullet.last.rating&label=Bullet&style=for-the-badge&logo=chessdotcom&logoColor=white&color=38bdae" alt="Chess.com Bullet"/>
+  </a>
 </div>
 
 <!-- ======================= ABOUT ME ======================= -->
@@ -105,22 +108,6 @@
 <div align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3wvniimn6pkd3adzbtcwz3bmb&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=70a5fd&bar_color_cover=false&border_radius=10" alt="Spotify Now Playing"/>
-  </a>
-</div>
-
-<!-- divider -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:4977c9&height=2" alt="divider"/>
-
-<!-- ======================= CHESS RATINGS ======================= -->
-<!-- Replace YOUR_CHESSCOM_USERNAME (4 places below) with your chess.com handle. -->
-<!-- Delete any time control you don't play (rapid/blitz/bullet), or that badge will show an error. -->
-<h2 align="center">「 ♟️ 」 Chess Ratings</h2>
-
-<div align="center">
-  <a href="https://www.chess.com/member/YOUR_CHESSCOM_USERNAME">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2FYOUR_CHESSCOM_USERNAME%2Fstats&query=%24.chess_rapid.last.rating&label=Rapid&style=for-the-badge&logo=chessdotcom&logoColor=white&color=70a5fd" alt="Chess.com Rapid"/>
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2FYOUR_CHESSCOM_USERNAME%2Fstats&query=%24.chess_blitz.last.rating&label=Blitz&style=for-the-badge&logo=chessdotcom&logoColor=white&color=bf91f3" alt="Chess.com Blitz"/>
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2FYOUR_CHESSCOM_USERNAME%2Fstats&query=%24.chess_bullet.last.rating&label=Bullet&style=for-the-badge&logo=chessdotcom&logoColor=white&color=38bdae" alt="Chess.com Bullet"/>
   </a>
 </div>
 
