@@ -55,7 +55,7 @@
   <br>
   👨‍💻 I’m currently working on some super cool side projects!
   <br>
-  💬 Ask me anything by opening an issue <a href="https://github.com/SpiritByte/SpiritByte/issues" title="Issue">here</a>
+  💬 Ask me anything by opening an issue <a href="https://github.com/alexanderli07/alexanderli07/issues" title="Issue">here</a>
   <br>
   📫 How to reach me: <a href="mailto:alexanderli@hotmail.ca">alexanderli@hotmail.ca</a>
 </p>
@@ -68,16 +68,16 @@
 <h2 align="center">「 📈 」 GitHub Stats</h2>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SpiritByte&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="stats"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=SpiritByte&theme=tokyonight&hide_border=true" alt="streak"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=alexanderli07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="stats"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=alexanderli07&theme=tokyonight&hide_border=true" alt="streak"/>
 </div>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpiritByte&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&hide=c%23,powershell,mathematica,ruby,objective-c,objective-c%2b%2b,cuda" alt="top langs"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderli07&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&hide=c%23,powershell,mathematica,ruby,objective-c,objective-c%2b%2b,cuda" alt="top langs"/>
 </div>
 
 <!-- Activity line graph (last 31 days) -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SpiritByte&theme=tokyo-night&hide_border=true&area=true" alt="activity graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=alexanderli07&theme=tokyo-night&hide_border=true&area=true" alt="activity graph"/>
 
 <!-- divider -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:4977c9&height=2" alt="divider"/>
@@ -88,9 +88,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SpiritByte/SpiritByte/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SpiritByte/SpiritByte/output/github-contribution-grid-snake.svg"/>
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/SpiritByte/SpiritByte/output/github-contribution-grid-snake.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexanderli07/alexanderli07/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexanderli07/alexanderli07/output/github-contribution-grid-snake.svg"/>
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/alexanderli07/alexanderli07/output/github-contribution-grid-snake.svg"/>
   </picture>
 </div>
 
@@ -149,11 +149,11 @@
 <h2 align="center">「 📌 」 Pinned Repositories</h2>
 
 <div align="center">
-  <a href="https://github.com/SpiritByte/JourneyMate" title="JourneyMate"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SpiritByte&repo=JourneyMate&theme=tokyonight&hide_border=true&border_radius=10"></a>
-  <a href="https://github.com/SpiritByte/Turner-Fenton-SAC" title="Turner-Fenton-SAC"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SpiritByte&repo=Turner-Fenton-SAC&theme=tokyonight&hide_border=true&border_radius=10"></a>
+  <a href="https://github.com/alexanderli07/JourneyMate" title="JourneyMate"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=alexanderli07&repo=JourneyMate&theme=tokyonight&hide_border=true&border_radius=10"></a>
+  <a href="https://github.com/alexanderli07/Turner-Fenton-SAC" title="Turner-Fenton-SAC"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=alexanderli07&repo=Turner-Fenton-SAC&theme=tokyonight&hide_border=true&border_radius=10"></a>
   <br>
-  <a href="https://github.com/SpiritByte/SeatingAssignment" title="SeatingAssignment"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SpiritByte&repo=SeatingAssignment&theme=tokyonight&hide_border=true&border_radius=10"></a>
-  <a href="https://github.com/SpiritByte/HopeLink" title="HopeLink"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SpiritByte&repo=HopeLink&theme=tokyonight&hide_border=true&border_radius=10"></a>
+  <a href="https://github.com/alexanderli07/SeatingAssignment" title="SeatingAssignment"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=alexanderli07&repo=SeatingAssignment&theme=tokyonight&hide_border=true&border_radius=10"></a>
+  <a href="https://github.com/alexanderli07/HopeLink" title="HopeLink"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=alexanderli07&repo=HopeLink&theme=tokyonight&hide_border=true&border_radius=10"></a>
 </div>
 
 <!-- divider -->
@@ -163,7 +163,7 @@
 <h2 align="center">「 🏆 」 GitHub Trophies</h2>
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=SpiritByte&theme=onedark&no-frame=true&column=7&margin-w=4&margin-h=4)
+![](https://github-profile-trophy.vercel.app/?username=alexanderli07&theme=onedark&no-frame=true&column=7&margin-w=4&margin-h=4)
 
 </div>
 
@@ -183,7 +183,7 @@
 <!-- ======================= VISITOR BADGE ======================= -->
 <br>
 <div align="center">
-  <a href="https://visitorbadge.io/status?path=SpiritByte"><img src="https://api.visitorbadge.io/api/visitors?path=SpiritByte&countColor=%234977c9&style=flat" /></a>
+  <a href="https://visitorbadge.io/status?path=alexanderli07"><img src="https://api.visitorbadge.io/api/visitors?path=alexanderli07&countColor=%234977c9&style=flat" /></a>
 </div>
 
 <!-- ======================= ANIMATED WAVING FOOTER ======================= -->
