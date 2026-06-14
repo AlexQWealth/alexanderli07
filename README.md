@@ -31,7 +31,6 @@
 <!-- ======================= ABOUT ME ======================= -->
 <br>
 <p align="center">
-  <br>
   🏆 <b>Hackathon Achievements:</b>
   <br>
   <b>1st Place Overall</b> - Formula Null (UW ’25) 🏎️
