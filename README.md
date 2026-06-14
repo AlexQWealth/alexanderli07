@@ -31,8 +31,6 @@
 <!-- ======================= ABOUT ME ======================= -->
 <br>
 <p align="center">
-  Hi, I'm Alexander Li, a software engineer from Ontario
-  <br>
   <br>
   🏆 <b>Hackathon Achievements:</b>
   <br>
@@ -57,7 +55,7 @@
   <i>Participated in 20+ Hackathons total</i>
   <br>
   <br>
-  🏫 I'm currently studying Computer Science + Finance at the University of Waterloo
+  🏫 I'm studying Computer Science + Finance at the University of Waterloo
   <br>
   💻 I love playing Chess in my free time and learning new things
   <br>
