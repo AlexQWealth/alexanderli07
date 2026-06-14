@@ -69,6 +69,14 @@
 </p>
 <br>
 
+<!-- ======================= MARKETS (auto-updated by the "Update Markets Card" workflow, served from the markets branch) ======================= -->
+<h3 align="center">「 💹 」 Markets I'm Watching</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:4977c9&height=3" alt=""/>
+
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/alexanderli07/alexanderli07/markets/markets.svg" alt="Live prices and 1-month sparklines for the S&amp;P 500, NASDAQ, Bitcoin and gold"/>
+</div>
+
 <!-- ======================= GITHUB STATS ======================= -->
 <h3 align="center">「 📈 」 GitHub Stats</h3>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:4977c9&height=3" alt=""/>
