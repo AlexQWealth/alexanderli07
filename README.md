@@ -29,7 +29,6 @@
 </p>
 
 <!-- ======================= ABOUT ME ======================= -->
-<br>
 <p align="center">
   🏆 <b>Hackathon Achievements:</b>
   <br>
