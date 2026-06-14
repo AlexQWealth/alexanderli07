@@ -29,11 +29,7 @@
 </p>
 
 <!-- ======================= ABOUT ME ======================= -->
-<br>
 <p align="center">
-  Hi, I'm Alexander Li, a software engineer from Ontario
-  <br>
-  <br>
   🏆 <b>Hackathon Achievements:</b>
   <br>
   <b>1st Place Overall</b> - Formula Null (UW ’25) 🏎️
@@ -57,15 +53,15 @@
   <i>Participated in 20+ Hackathons total</i>
   <br>
   <br>
-  🏫 I'm currently studying Computer Science + Finance at the University of Waterloo
+  🏫 I'm studying Computer Science + Finance at the University of Waterloo
   <br>
   💻 I love playing Chess in my free time and learning new things
   <br>
-  👨‍💻 I’m currently working on some super cool side projects!
+  👨‍💻 I’m currently working as a Finance Developer @ Q Wealth Partners
   <br>
   💬 Ask me anything by opening an issue <a href="https://github.com/alexanderli07/alexanderli07/issues" title="Issue">here</a>
   <br>
-  📫 How to reach me: <a href="mailto:alexanderli@hotmail.ca">alexanderli@hotmail.ca</a>
+  📫 How to reach me: <a href="mailto:rednaxela.ca@gmail.com">rednaxela.ca@gmail.com</a>
 </p>
 <br>
 
